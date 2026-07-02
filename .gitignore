@@ -1,0 +1,30 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+.history/
+
+# Environment variables
+.env
+.env.local
